@@ -1,0 +1,2 @@
+White moves: 1. d2 -> d4 2. d4 -> e5 
+Black moves: 1. e7 -> e5 
